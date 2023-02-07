@@ -1,0 +1,4 @@
+﻿  grid.c
+C:\Users\danie\source\repos\CIS27Fall2020DanielTanurhan - FinalGroupProject\CIS27Fall2020DanielTanurhan - FinalGroupProject\grid.c(304,22): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\Users\danie\source\repos\CIS27Fall2020DanielTanurhan - FinalGroupProject\CIS27Fall2020DanielTanurhan - FinalGroupProject\grid.c(305,22): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+  CIS27Fall2020DanielTanurhan - FinalGroupProject.vcxproj -> C:\Users\danie\source\repos\CIS27Fall2020DanielTanurhan - FinalGroupProject\Debug\CIS27Fall2020DanielTanurhan - FinalGroupProject.exe
